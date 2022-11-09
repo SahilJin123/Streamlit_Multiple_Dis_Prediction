@@ -1,0 +1,1 @@
+streamlit run "C:\Users\asus\Desktop\Multiple Diseases prediction system\Multiple_Dis_Pred.py"
